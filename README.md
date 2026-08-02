@@ -105,4 +105,40 @@ CREATE TABLE students (
 
 ---
 
-⭐ If you found this project useful, consider starring the repository.
+⭐ If you found this project useful, consider starring the repository.                                                                                              ---
+
+# 📸 Application Screenshots
+
+## 🏠 Main Menu
+
+![Main Menu](images/menu.png)
+
+---
+
+## ➕ Add Student
+
+![Add Student](images/addstudent.png)
+
+---
+
+## 📋 View All Students
+
+![View Students](images/viewstudents.png)
+
+---
+
+## 🔍 Search Student
+
+![Search Student](images/searchstudent.png)
+
+---
+
+## ✏️ Update Student
+
+![Update Student](images/updatestudent.png)
+
+---
+
+## 🗑️ Delete Student
+
+![Delete Student](images/deletestudent.png)
